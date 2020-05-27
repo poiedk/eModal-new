@@ -1,0 +1,8 @@
+title: Emodal
+description: Easy Modal for bootstrap, is a simple way to create modal dialogs using javascript.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
